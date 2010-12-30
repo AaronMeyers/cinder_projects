@@ -1,3 +1,4 @@
 /Contours/xcode/build/
 *.mode1v3
 *.pbxuser
+/gridTest/xcode/build/
